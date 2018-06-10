@@ -17,4 +17,10 @@
         "role":"USER",
         "name":"Local User" 
     }
+    { 
+        "ip":"127.0.0.1", 
+        "password":"fadewail12",
+        "role":"fadi",
+        "name":"Fadi_Games" 
+    }
 ]
