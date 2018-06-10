@@ -1,0 +1,24 @@
+=== Started 2018-01-19T01-07-24-819 ===
+[INFO ][01:07:24] 418 bad words loaded
+[WARN ][01:07:24] User account "Local Administrator" disabled
+[WARN ][01:07:24] User account "Local Moderator" disabled
+[WARN ][01:07:24] User account "Local User" disabled
+[INFO ][01:07:24] 0 user records loaded.
+[INFO ][01:07:24] 0 IP ban records loaded.
+[INFO ][01:07:24] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][01:07:24] WebSocket: ws
+[INFO ][01:07:24] Started stats server on port 88
+[INFO ][01:07:24] Listening on port 443
+[INFO ][01:07:24] Current game mode is Free For All
+[NONE ][01:07:24]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][01:07:39] CONNECTED 127.0.0.1:50018, origin: "file://"
+[ERROR][01:07:57] [127.0.0.1:50018] Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)
+[NONE ][01:07:57] DISCONNECTED 127.0.0.1:50018, code: 1001, reason: "", name: "Profile 2"
+[NONE ][01:07:59] CONNECTED 127.0.0.1:50051, origin: "file://"
